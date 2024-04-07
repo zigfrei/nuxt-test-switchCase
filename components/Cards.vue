@@ -1,7 +1,7 @@
 <script setup>
 
 const cardsArray = [{
-    id:1,
+    id: 1,
     title: "Sit curabitur cum dolor mauris",
     text: "Sit curabitur cum dolor mauris. Sit augue massa diam donec consequat malesuada tincidunt enim auctor",
     time: "2024-04-07T14:54",
@@ -9,7 +9,7 @@ const cardsArray = [{
     cardImg: "/card1.png"
 },
 {
-    id:2,
+    id: 2,
     title: "Lorem ipsum dolor sit ametconsectetur. Auctor at cursus amet aliquet gravida",
     text: "Sit curabitur cum dolor mauris. Sit augue massa diam donec consequat malesuada",
     time: "2024-04-07T14:54",
@@ -17,7 +17,7 @@ const cardsArray = [{
     cardImg: "/card2.png"
 },
 {
-    id:3,
+    id: 3,
     title: "Sit curabitur cum dolor mauris augue massa",
     text: "Sit curabitur cum dolor mauris. Sit augue massa diam donec consequat malesuada tincidunt enim auctor",
     time: "2024-04-07T14:54",
@@ -25,7 +25,7 @@ const cardsArray = [{
     cardImg: "/card1.png"
 },
 {
-    id:4,
+    id: 4,
     title: "Lorem ipsum dolor sit amet con...",
     text: "Sit curabitur cum dolor mauris. Sit augue massa diam donec consequat malesuada ",
     time: "2024-04-07T14:54",
@@ -33,7 +33,7 @@ const cardsArray = [{
     cardImg: "/card2.png"
 },
 {
-    id:5,
+    id: 5,
     title: "Sit curabitur cum dolor mauris",
     text: "Sit curabitur cum dolor mauris. Sit augue massa diam donec consequat malesuada tincidunt enim auctor",
     time: "2024-04-07T14:54",
@@ -41,7 +41,7 @@ const cardsArray = [{
     cardImg: "/card1.png"
 },
 {
-    id:6,
+    id: 6,
     title: "Sit curabitur cum dolor mauris",
     text: "Sit curabitur cum dolor mauris. Sit augue massa diam donec consequat malesuada tincidunt enim auctor",
     time: "2024-04-07T14:54",
@@ -75,9 +75,9 @@ const cardsArray = [{
     margin: 0 auto;
 
 }
+
 div {
     width: 100%;
     min-height: 300px;
-    /* height: 400px; */
 }
 </style>

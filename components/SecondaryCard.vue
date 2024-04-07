@@ -1,10 +1,4 @@
 <script setup>
-// import { ref } from 'vue'
-// const routes = ref([
-// {id:'1', to: '/', title: 'Home' }, 
-// {id:'2',  to: 'features', title: 'Features' }, 
-// {id:'3', to: 'policy', title: 'Privacy policy' }, 
-// {id:'4',  to: 'req-feature', title: 'Request Feature' },]) 
 const props = defineProps({
     card: Object
 })

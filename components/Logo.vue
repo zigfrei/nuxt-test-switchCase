@@ -4,7 +4,7 @@
 <template>
     <nuxt-link class="link" to="/">
         <div class="logoWrapper">
-            <LogoIcon/>
+            <LogoIcon />
             <h1 class="logoTitle">Sinum</h1>
         </div>
     </nuxt-link>
